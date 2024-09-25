@@ -1,6 +1,7 @@
 #H Hotel
+----------
 
-소개
+**소개**
 호텔예약관리 + PMS(Property Management System)
 
 개발 도구 및 환경
