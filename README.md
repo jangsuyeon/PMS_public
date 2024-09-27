@@ -1,4 +1,4 @@
-https://github.com/jangsuyeon/PMS_public/issues/1#issue-2551952591
+![hotel_logo_main_cut](https://github.com/user-attachments/assets/0f1575d2-e093-414e-876c-721290054983)
 ----------
 
 ## 📝소개
